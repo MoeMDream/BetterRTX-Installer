@@ -34,6 +34,9 @@
   "action_backup_desc": "为选中安装目录的当前着色器创建备份",
   "action_install_dlss_title": "安装 DLSS",
   "action_install_dlss_desc": "安装 NVIDIA DLSS 以提升性能",
+  "action_graphics_options_title": "图形选项编辑器",
+  "action_graphics_options_desc": "直接通过 options.txt 编辑 Minecraft 图形设置",
+  "edit_options": "编辑选项",
   "rtpack_dialog_title": "安装 RTpack 文件",
   "rtpack_dialog_description": "选择要将此 RTpack 文件安装到哪些 Minecraft 安装目录：",
   "select_minecraft_instances": "选择 Minecraft 安装目录",
@@ -160,6 +163,7 @@
   "installation_name_placeholder": "输入安装目录名称",
   "installation_path": "安装路径",
   "installation_path_placeholder": "输入安装路径",
+  "browse": "浏览",
   "disclaimer": "免责声明",
   "disclaimer_text": "BetterRTX 与 IObit、NVIDIA、Mojang 或 Microsoft 没有任何隶属、认可或赞助关系。BetterRTX 团队对其依赖项引起的任何问题不承担责任。模组修改需要一定的技术知识，并可能导致您的游戏或系统出现问题。使用风险自负。"
 }
