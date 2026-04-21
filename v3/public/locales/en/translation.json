@@ -17,6 +17,7 @@
   "tab_creator": "Creator",
   "navigation": "Mod Options",
   "toolbar_options_label": "Toolbar options",
+  "console_output": "Console Output",
   "installations_found_count": "{{count}} found",
   "installations_none_found": "No Minecraft installations found",
   "add_installation": "Find Installation",

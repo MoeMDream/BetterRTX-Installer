@@ -17,6 +17,7 @@
   "tab_creator": "创作者",
   "navigation": "模组选项",
   "toolbar_options_label": "工具栏选项",
+  "console_output": "控制台输出",
   "installations_found_count": "已找到 {{count}} 个",
   "installations_none_found": "未找到 Minecraft 安装目录",
   "add_installation": "查找安装目录",
